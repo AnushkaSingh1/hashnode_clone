@@ -13,6 +13,6 @@
 
 <p></p>
 
-<img align="center" src="https://user-images.githubusercontent.com/62628408/142680359-0a5e53f1-820e-41dd-9a2c-ea49ddad8433.png" alt="hashnode-clone-by-victor-eke">
+<img align="center" src="https://user-images.githubusercontent.com/62628408/142680359-0a5e53f1-820e-41dd-9a2c-ea49ddad8433.png" alt="hashnode-clone">
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a0b3bf5a-aa55-4bf7-8409-3daf9cb51887/deploy-status)](https://app.netlify.com/sites/hashnode-clone-sass/deploys)
+
